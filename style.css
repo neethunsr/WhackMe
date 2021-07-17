@@ -1,0 +1,19 @@
+.square {
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+}
+
+.grid {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-content: center;
+	width: 610px;
+	height: 610px;
+}
+
+.mole {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKyU24a-PFYYGcca6glQ9BdA9vrE6PK6x3xg&usqp=CAU);
+	background-size: cover;
+}
